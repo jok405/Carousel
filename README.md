@@ -1,6 +1,6 @@
 # Carousel
 Animated slideshow containing portfolio projects. Each card is selectable navigating user to the designated landing page.
-Created using only HTML and CSS for UI. Please check out the page [here]! (https://sesame-street-game.herokuapp.com/).
+Created using only HTML and CSS for UI.
 
 ## Screenshots
 
