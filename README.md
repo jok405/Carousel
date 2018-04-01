@@ -8,4 +8,4 @@ Created using only HTML and CSS for UI. Please check out the page [here]! (https
 ![Home Page](/screenshots/home.png)
 
 ### Responsive Page
-![Responsive Page](/screenshots/responsive.png)
+![Responsive Page](/screenshots/mobile.png)
