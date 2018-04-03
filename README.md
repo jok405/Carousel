@@ -1,5 +1,5 @@
 # Carousel
-Animated slideshow containing portfolio projects. Each card is selectable navigating user to the designated landing page.
+Animated slideshow containing portfolio projects. Each card is selectable navigating user to the designated landing page for each project.
 Created using only HTML and CSS for UI. You can checkout the page [here](https://jok405.github.io/Carousel/)!
 
 ## Screenshots
